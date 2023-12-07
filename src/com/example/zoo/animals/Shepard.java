@@ -1,3 +1,7 @@
+package com.example.zoo.animals;
+
+import com.example.zoo.types.Dog;
+
 public class Shepard extends Dog implements Serviceable, Serviceable2 {
     @Override
     public void serve(String command) {

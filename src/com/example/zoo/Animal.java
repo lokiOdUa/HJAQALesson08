@@ -1,3 +1,5 @@
+package com.example.zoo;
+
 public abstract class Animal {
     private String name;
     private int numLHeads = 1;
